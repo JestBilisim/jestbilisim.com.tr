@@ -19,6 +19,14 @@ class App extends Component {
           >
             Facebook
           </a>
+          <a
+            className="App-link"
+            href="https://www.instagram.com/jestbilisim/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Instagram
+          </a>
         </header>
       </div>
     );
