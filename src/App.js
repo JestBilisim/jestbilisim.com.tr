@@ -27,6 +27,14 @@ class App extends Component {
           >
             Instagram
           </a>
+          <a
+            className="App-link"
+            href="https://twitter.com/jestbilisim"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Twitter
+          </a>
         </header>
       </div>
     );
