@@ -39,7 +39,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Twittersss
+            Twitter
           </a>
         </header>
       </div>
