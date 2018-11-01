@@ -12,7 +12,10 @@ class App extends Component {
             Çok yakında
           </p>
           <p>
-            #Web tasarım #Yazılım  #Bitcoin Danışmanlığı #Sosyal medya yönetimi #Seo #Adwords
+            #Web tasarım #Yazılım  #Bitcoin Danışmanlığı #Sosyal Medya Yönetimi
+          </p>
+          <p>
+          #Seo #Adwords #Mobil Uygulama #Editörlük
           </p>
           <a
             className="App-link"
