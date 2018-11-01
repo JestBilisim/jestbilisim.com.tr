@@ -11,6 +11,9 @@ class App extends Component {
           <p>
             Çok yakında
           </p>
+          <p>
+            #web Tasarım
+          </p>
           <a
             className="App-link"
             href="https://www.facebook.com/jestbilisim"
