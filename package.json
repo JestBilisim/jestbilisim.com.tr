@@ -1,5 +1,6 @@
 {
   "name": "jestbilisim.com.tr",
+  "homepage": "https://www.jestbilisim.com.tr",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

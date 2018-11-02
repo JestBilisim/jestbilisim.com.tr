@@ -2,18 +2,15 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 
-const default_metas = [
-  { name: 'description', content: 'Jest bilişim yazılım web tasarım hizmetleri' },
-  { property: 'og:title', content: 'Jest bilişim' },
-  { property: 'og:description', content: 'Jest bilişim yazılım web tasarım hizmetleri' },
-  { property: 'og:image', content: './logo-bg.jpg' }
-];
-
 const Home = () => (
   <div className="link-wrapper">
     <Helmet
       title="Jest Bilişim"
-      meta={default_metas}
+      meta={
+        [
+          { name: 'description', content: 'Jest bilişim yazılım web tasarım hizmetleri' },
+        ]
+      }
     />
     <ul>
       <li>
@@ -57,7 +54,11 @@ const Contact = () => (
   <div className="contact-wrapper">
     <Helmet
       title="İletişim - Jest Bilişim"
-      meta={default_metas}
+      meta={
+        [
+          { name: 'description', content: 'Jest bilişim adres telefon ve diğer iletişim bilgilerimiz' },
+        ]
+      }
     />
     <p><strong>Adres:</strong> 302. Sk. Ordu / Türkiye</p>
     <p><strong>Telefon:</strong> (452) 222 21 88</p>
