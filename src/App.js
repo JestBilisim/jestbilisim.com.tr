@@ -46,7 +46,7 @@ const Home = () => (
       </li>
       <li>
         <Link
-          to="/contact"
+          to="/iletisim"
         >İletişim</Link>
       </li>
     </ul>
@@ -84,7 +84,7 @@ class App extends Component {
         <div className="App">
           <Header />
           <Route exact path="/" component={Home} />
-          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/iletisim" component={Contact} />
         </div>
       </Router>
     );
