@@ -41,6 +41,14 @@ class App extends Component {
           >
             Twitter
           </a>
+          <a
+            className="App-link"
+            href="https://www.linkedin.com/company/jestbilisim"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Linkedin
+          </a>
         </header>
       </div>
     );
