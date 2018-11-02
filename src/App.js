@@ -5,8 +5,8 @@ import { Helmet } from 'react-helmet';
 const default_metas = [
   { name: 'description', content: 'Jest bilişim yazılım web tasarım hizmetleri' },
   { property: 'og:title', content: 'Jest bilişim' },
-  { property: 'og:description', content: 'Jest bilişim' },
-  { property: 'og:image', content: 'public/logo-bg.jpg' }
+  { property: 'og:description', content: 'Jest bilişim yazılım web tasarım hizmetleri' },
+  { property: 'og:image', content: './logo-bg.jpg' }
 ];
 
 const Home = () => (
