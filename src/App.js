@@ -60,7 +60,7 @@ const Contact = () => (
         ]
       }
     />
-    <p><strong>Adres:</strong> 302. Sk. Ordu / Türkiye</p>
+    <p><strong>Adres:</strong>Akyazı Mah. 879. Sokak No :3-5 Huzur İş Merkezi Kat:3, 52200 Altınordu/Ordu Türkiye</p>
     <p><strong>Telefon:</strong> (452) 222 21 88</p>
   </div>
 )
@@ -71,8 +71,8 @@ const Header = () => {
       <header className="App-header">
         <h1><Link to="/">Jest Bilişim</Link></h1>
         <h2>Çok Yakında</h2>
-        <p>#Web tasarım #Yazılım  #Bitcoin Danışmanlığı #Sosyal Medya Yönetimi</p>
-        <p>#Seo #Adwords #Mobil Uygulama #Editörlük</p>
+        <p>#Web tasarım #Yazılım #Sosyal Medya Yönetimi</p>
+        <p>Akyazı Mah. 879. Sokak No :3-5 Huzur İş Merkezi Kat:3, 52200 Altınordu/Ordu</p>
       </header>
     </div>
   )
