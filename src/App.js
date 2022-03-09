@@ -69,8 +69,7 @@ const Header = () => {
   return(
     <div>
       <header className="App-header">
-        <h1><Link to="/">Jest Bilişim</Link></h1>
-        <h2>Çok Yakında</h2>
+        <h1><Link to="/">Jest Teknoloji Bilişim Sanayi ve Ticaret Ltd. Şti.</Link></h1>
         <p>#Web tasarım #Yazılım #Sosyal Medya Yönetimi</p>
         <p>Akyazı Mah. 879. Sokak No :3-5 Huzur İş Merkezi Kat:3, 52200 Altınordu/Ordu</p>
       </header>
